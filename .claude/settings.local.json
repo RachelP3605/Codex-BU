@@ -5,7 +5,8 @@
       "WebFetch(domain:suno.com)",
       "Bash(ls \"C:\\\\Users\\\\rache\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\" 2>/dev/null || echo \"not found\")",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "Bash(git push *)"
     ]
   }
 }
