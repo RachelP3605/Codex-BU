@@ -6,7 +6,9 @@
       "Bash(ls \"C:\\\\Users\\\\rache\\\\AppData\\\\Roaming\\\\Claude\\\\local-agent-mode-sessions\\\\skills-plugin\" 2>/dev/null || echo \"not found\")",
       "Bash(git add *)",
       "Bash(git commit *)",
-      "Bash(git push *)"
+      "Bash(git push *)",
+      "WebFetch(domain:github.com)",
+      "Bash(cat \"C:\\\\Users\\\\rache\\\\.env\\\\.env\" | sed 's/=.*/=***REDACTED***/')"
     ]
   }
 }
