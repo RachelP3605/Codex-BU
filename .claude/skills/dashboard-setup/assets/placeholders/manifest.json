@@ -1,0 +1,98 @@
+{
+  "note": "Local, license-clean SVG props for the Dashboard Setup examples. Every file is authored by generate-placeholder-assets.mjs. No external assets, no network, no paid sources. All content is sample data and is tagged SAMPLE.",
+  "generated_by": "scripts/generate-placeholder-assets.mjs",
+  "license": "Original work, free to use and modify with this skill pack.",
+  "count": 15,
+  "assets": [
+    {
+      "name": "ad-before-after.svg",
+      "represents": "Before / after split ad creative",
+      "usedIn": "Ad dashboard creative wall",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "ad-founder-talkinghead.svg",
+      "represents": "UGC founder talking-head video frame",
+      "usedIn": "Ad dashboard creative wall",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "ad-proof-demo.svg",
+      "represents": "Product demo ad frame",
+      "usedIn": "Ad dashboard creative wall",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "ad-hook-text.svg",
+      "represents": "Bold hook-test text card ad",
+      "usedIn": "Ad dashboard creative wall",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "report-landing-page.svg",
+      "represents": "Landing page thumbnail",
+      "usedIn": "Client review dashboard deliverables",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "report-email.svg",
+      "represents": "Client email mockup thumbnail",
+      "usedIn": "Client review dashboard deliverables",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "report-cover.svg",
+      "represents": "Weekly report cover one-pager",
+      "usedIn": "Client review dashboard deliverables",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "chart-card-revenue.svg",
+      "represents": "Revenue chart card / tear sheet",
+      "usedIn": "Revenue movement dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "table-snapshot.svg",
+      "represents": "Accounts table snapshot",
+      "usedIn": "Revenue dashboard and ops dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "ticket-card.svg",
+      "represents": "Blocked ticket / PR card",
+      "usedIn": "Ops readiness lanes",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "product-onboarding.svg",
+      "represents": "App onboarding screen at the drop step",
+      "usedIn": "Product behavior dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "product-empty-invite.svg",
+      "represents": "Empty invite-teammate screen",
+      "usedIn": "Product behavior dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "evidence-transcript.svg",
+      "represents": "Call transcript snippet clip",
+      "usedIn": "Research evidence dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "evidence-survey.svg",
+      "represents": "Survey result chart clip",
+      "usedIn": "Research evidence dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    },
+    {
+      "name": "evidence-competitor.svg",
+      "represents": "Competitor pricing page screenshot",
+      "usedIn": "Research evidence dashboard",
+      "source": "Generated locally by generate-placeholder-assets.mjs"
+    }
+  ]
+}

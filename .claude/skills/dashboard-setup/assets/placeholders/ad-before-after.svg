@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 500" width="400" height="500" role="img">
+
+    <rect width="400" height="500" fill="#10131a"/>
+    <rect x="0" y="0" width="200" height="500" fill="#2b3340"/>
+    <rect x="200" y="0" width="200" height="500" fill="#1c2c5a"/>
+    
+    <g transform="translate(100, 150)">
+      <path d="M -70 120
+        a 70 78 0 0 1 140 0 Z" fill="#3c4656"/>
+      <circle cx="0" cy="10" r="34" fill="#3c4656"/>
+    </g>
+    
+    <g transform="translate(300, 150)">
+      <path d="M -70 120
+        a 70 78 0 0 1 140 0 Z" fill="#3a5fd0"/>
+      <circle cx="0" cy="10" r="34" fill="#3a5fd0"/>
+    </g>
+    <text x="100" y="60" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#aeb6c4" text-anchor="middle">DAY 1</text>
+    <text x="300" y="60" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="16" font-weight="800" fill="#dfe7ff" text-anchor="middle">DAY 30</text>
+    <line x1="200" y1="0" x2="200" y2="500" stroke="#0b0e14" stroke-width="3"/>
+    <rect x="0" y="404" width="400" height="96" fill="#0b0e14" opacity="0.86"/>
+    <text x="24" y="444" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="22" font-weight="800" fill="#f8fbff">The change people noticed</text>
+    <rect x="24" y="460" width="150" height="26" rx="13" fill="#ffd84d"/>
+    <text x="99" y="478" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="12" font-weight="800" fill="#111827" text-anchor="middle">See the routine</text>
+
+    <g transform="translate(330, 12)">
+      <rect width="58" height="20" rx="5" fill="#1c2230" opacity="0.92"/>
+      <rect width="58" height="20" rx="5" fill="none" stroke="#f8fbff" stroke-opacity="0.25"/>
+      <text x="29" y="14" font-family="Inter, ui-sans-serif, system-ui, -apple-system, BlinkMacSystemFont, Segoe UI, sans-serif" font-size="10" font-weight="800"
+        letter-spacing="1" fill="#f8fbff" text-anchor="middle">SAMPLE</text>
+    </g>
+</svg>
