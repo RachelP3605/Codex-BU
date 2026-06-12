@@ -1,0 +1,6 @@
+[mcp_servers.exa]
+url = "https://mcp.exa.ai/mcp?tools=web_search_exa,web_fetch_exa,web_search_advanced_exa"
+
+[mcp_servers.firecrawl]
+command = "powershell"
+args = ["-NoProfile", "-ExecutionPolicy", "Bypass", "-File", ".codex/run-firecrawl-mcp.ps1"]
