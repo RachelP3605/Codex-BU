@@ -1,0 +1,2 @@
+lead_id,vertical,city,business_name,owner_name,address,phone,website_url,gbp_url,website_status,technical_result,screenshot_url,visual_score,visual_score_reason,priority,rachel_review_status,competitor_name,competitor_status,postcard_copy,demo_url,postcard_design_approved,postcard_batch_approved,postcard_status,response_status,proposal_status,close_status,notes
+PLUMB-LB-001,Plumber,Long Beach CA,,,,,,,"Not Checked","Not Run",,,,,"Unqualified","Not Needed",,,"",AOMplumber.vercel.app,No,No,Not Queued,No Response,Not Started,Open,
